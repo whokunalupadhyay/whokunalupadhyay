@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🚀 Hi, I'm Kunal Upadhyay 👋
 
-<!--
-**whokunalupadhyay/whokunalupadhyay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Computer Science Student  
+💻 Aspiring Software Engineer  
+🧠 Strong in Data Structures & Algorithms (C++)  
+🐍 Exploring Python & Data Analysis  
+🌐 Building practical web & application projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+✨ I enjoy solving logical problems and writing clean, structured code  
+📊 Worked on real-world EDA (Exploratory Data Analysis) projects  
+🚀 Actively improving problem-solving via LeetCode  
+📚 Continuously learning core CS fundamentals  
+
+---
+
+## 🛠 Tech Stack
+
+💻 Languages  
+C++ ⚡ | Python 🐍 | SQL  
+
+🌐 Web  
+HTML | CSS  
+
+📊 Tools & Libraries  
+Pandas | Matplotlib | Git | GitHub  
+
+---
+
+## 📈 Currently Focused On
+
+🚀 Advanced DSA  
+⚙️ Writing scalable and optimized code  
+💡 Building impactful real-world projects  
+
+---
+
+## 📫 Connect With Me
+
+📩 Email: upadhyaykunal2323@gmail.com 
+🔗 LinkedIn: https://www.linkedin.com/in/kunalupadhyay-/
